@@ -2,7 +2,7 @@
 
 ---
 
-Successorator is an Android To-Do List application built using Java. It uses Room (SQLite) to store data.
+Successorator is an Android To-Do List application built using Java. It uses RoomDB to store data.
 
 Features:
 - Add goals to keep track of tasks
